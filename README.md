@@ -49,5 +49,5 @@
 [![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
 
 
-⭐️ From [Satosh](https://github.com/satosh-j)
+⭐️ From [Smile](https://github.com/SmileDev10162)
 
