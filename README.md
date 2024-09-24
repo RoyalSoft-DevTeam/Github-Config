@@ -25,12 +25,13 @@
       src="https://satoshj-readme-state.vercel.app/api/top-langs?username=smiledev10162&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats-toplangs'
     />
-    [![trophy](https://github-profile-trophy.vercel.app/?username=SmileDev10162)](https://github.com/ryo-ma/github-profile-trophy)
+    
   </a>
 </p>
 
 **Some of the technologies I have worked with**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SmileDev10162)](https://github.com/SmileDev10162/github-profile-trophy)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
